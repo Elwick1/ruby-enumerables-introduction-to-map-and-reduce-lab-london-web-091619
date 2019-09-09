@@ -39,4 +39,5 @@ def map_to_square(array)
   new = []
   i = 0 
   while i < array.length do
-    new.push(array[i] %)
+    new.push(array[i] math.sqrt)
+    i +=
