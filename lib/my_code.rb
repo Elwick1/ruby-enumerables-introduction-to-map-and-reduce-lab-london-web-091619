@@ -29,5 +29,5 @@ def map_to_double(array)
   new = []
   i = 0 
   while i < array.length do
-    new.push(array[i])
+    new.push(array[i] * 2)
     i 
