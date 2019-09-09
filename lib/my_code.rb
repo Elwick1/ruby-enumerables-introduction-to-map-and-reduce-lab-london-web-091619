@@ -45,12 +45,3 @@ def map_to_square(array)
   return new
 end
 
-def reduce_to_total(array, starting_point = 0)
-  new = []
-  i = 0 
-  while i < array.length do
-    new += array[i]
-    i += 1
-  end
-  return new
-end
