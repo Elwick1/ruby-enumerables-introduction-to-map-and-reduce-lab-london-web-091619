@@ -24,3 +24,10 @@ def map_to_no_change(array)
   end
   return new
 end
+
+def map_to_double(array)
+  new = []
+  i = 0 
+  while i < array.length do
+    new.push(array[i])
+    i 
