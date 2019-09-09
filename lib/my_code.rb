@@ -8,5 +8,6 @@
 def map_to_negativize(array)
   new = []
   i = 0 
-  while i < array.length
+  while i < array.length do
+    
   
